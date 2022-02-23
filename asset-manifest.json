@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.49a3d093.css",
-    "main.js": "/static/js/main.40764c31.js",
-    "static/js/787.b3f9d252.chunk.js": "/static/js/787.b3f9d252.chunk.js",
-    "index.html": "/index.html",
-    "main.49a3d093.css.map": "/static/css/main.49a3d093.css.map",
-    "main.40764c31.js.map": "/static/js/main.40764c31.js.map",
-    "787.b3f9d252.chunk.js.map": "/static/js/787.b3f9d252.chunk.js.map"
+    "main.css": "/chris-wordle/static/css/main.49a3d093.css",
+    "main.js": "/chris-wordle/static/js/main.3678d9bd.js",
+    "static/js/787.b3f9d252.chunk.js": "/chris-wordle/static/js/787.b3f9d252.chunk.js",
+    "index.html": "/chris-wordle/index.html",
+    "main.49a3d093.css.map": "/chris-wordle/static/css/main.49a3d093.css.map",
+    "main.3678d9bd.js.map": "/chris-wordle/static/js/main.3678d9bd.js.map",
+    "787.b3f9d252.chunk.js.map": "/chris-wordle/static/js/787.b3f9d252.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49a3d093.css",
-    "static/js/main.40764c31.js"
+    "static/js/main.3678d9bd.js"
   ]
 }
