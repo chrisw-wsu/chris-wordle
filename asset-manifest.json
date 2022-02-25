@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/chris-wordle/static/css/main.49a3d093.css",
-    "main.js": "/chris-wordle/static/js/main.eb53afa1.js",
+    "main.js": "/chris-wordle/static/js/main.f5a81164.js",
     "static/js/787.b3f9d252.chunk.js": "/chris-wordle/static/js/787.b3f9d252.chunk.js",
     "index.html": "/chris-wordle/index.html",
     "main.49a3d093.css.map": "/chris-wordle/static/css/main.49a3d093.css.map",
-    "main.eb53afa1.js.map": "/chris-wordle/static/js/main.eb53afa1.js.map",
+    "main.f5a81164.js.map": "/chris-wordle/static/js/main.f5a81164.js.map",
     "787.b3f9d252.chunk.js.map": "/chris-wordle/static/js/787.b3f9d252.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49a3d093.css",
-    "static/js/main.eb53afa1.js"
+    "static/js/main.f5a81164.js"
   ]
 }
